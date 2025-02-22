@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahmirkhani
+- 👋 Hi, I’m @ahmirkhani {AmirHossein Mirkhani}
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ml projects
